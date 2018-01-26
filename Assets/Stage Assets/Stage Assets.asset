@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5073b0478475ec44d879a7a879c222ee, type: 3}
+  m_Name: Stage Assets
+  m_EditorClassIdentifier: 
+  m_Backdrops:
+  - {fileID: 1641723537078010, guid: 5649c1f2dcc184e44bcc5f9cb18bad02, type: 2}
+  - {fileID: 1932949777865786, guid: fbbea8fe22840814a9060f37e74c24b5, type: 2}
+  m_Characters:
+  - {fileID: 1793394520573308, guid: e0a464c6b950be44e8cac5ba9fd731b2, type: 2}
+  - {fileID: 1049674693999748, guid: e8a3f58884133e940bf9df61019d8d40, type: 2}
